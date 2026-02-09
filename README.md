@@ -99,4 +99,3 @@ Além de estimar preços, o modelo contribui para uma melhor compreensão do mer
 e empresas na precificação estratégica de imóveis.
 
 
-- 
