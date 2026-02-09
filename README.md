@@ -98,4 +98,12 @@ indo além da previsão e permitindo interpretação e geração de insights.
 Além de estimar preços, o modelo contribui para uma melhor compreensão do mercado imobiliário, auxiliando corretores, investidores 
 e empresas na precificação estratégica de imóveis.
 
+---
+
+## 👩‍💻 Autora
+
+Clea Márcia
+
+Analista de Dados | Ciência de Dados
+
 
